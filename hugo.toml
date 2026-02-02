@@ -1,0 +1,7 @@
+baseURL = 'melarthurs.com'
+languageCode = 'en-gb'
+title = 'Mel Arthurs'
+theme = 'archie'
+[caches]
+  [caches.images]
+    dir = ':cacheDir/images'
